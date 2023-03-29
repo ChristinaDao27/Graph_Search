@@ -1,0 +1,8 @@
+Finding the path from node 0 to node 5:
+0 => 1 => 2 => 3 => 5 => END
+Finding the path from node 2 to itself:
+2 => END
+Finding the path from node 4 to node 0:
+END
+Finding the path from node 1 to node 14 in an empty Graph object:
+END
